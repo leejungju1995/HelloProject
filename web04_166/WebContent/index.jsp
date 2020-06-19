@@ -11,7 +11,14 @@
 	음 워크스페이스에서 벗어나서 관리가 되는구나
 	신기하다
 	이젠 등록 못하겠네
+<<<<<<< HEAD
 	alias : TOP
+=======
+	alias : TOP
+
+	Good Time
+	SADFASDF ㄴㅁㅇㄻㄴㅇㄹ
+>>>>>>> branch 'master' of https://github.com/leejungju1995/HelloProject.git
 	
 	Good Time
 	내 별명임 하하하하

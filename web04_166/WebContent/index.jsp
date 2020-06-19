@@ -12,13 +12,9 @@
 	신기하다
 	이젠 등록 못하겠네
 	alias : TOP
-<<<<<<< HEAD
 	
-	내 별명임 하하하하
-=======
-
 	Good Time
-	
->>>>>>> branch 'master' of https://github.com/leejungju1995/HelloProject.git
+	내 별명임 하하하하
+
 </body>
 </html>
